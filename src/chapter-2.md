@@ -32,7 +32,7 @@ There are many different tools and platforms available for AI-enabled writing cr
 * Grammarly, which provides grammar and spelling suggestions for written text
 * Hemingway Editor, which analyzes written text for readability and suggests improvements
 * Writefull, which provides feedback on written text for language use and structure
-* GPT-3, a powerful language model that can generate human-like text based on prompts
+* GPT-3.5, a powerful language model that can generate human-like text based on prompts
 * Google Translate, which can translate written text from one language to another
 * IBM Watson, a suite of AI tools that can analyze and enhance written text
 

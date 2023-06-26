@@ -20,10 +20,10 @@ Writefull
 
 Writefull is an AI-powered tool that provides feedback on written text for language use and structure. It offers suggestions for synonyms, collocations, and phrases based on the context of the text.
 
-GPT-3
+GPT-3.5
 -----
 
-GPT-3 is a powerful language model developed by OpenAI that can generate human-like text based on prompts. It uses deep learning techniques to analyze and understand the structure and meaning of language and has many potential applications for writing creativity and inspiration.
+GPT-3.5 is a powerful language model developed by OpenAI that can generate human-like text based on prompts. It uses deep learning techniques to analyze and understand the structure and meaning of language and has many potential applications for writing creativity and inspiration.
 
 Google Translate
 ----------------
