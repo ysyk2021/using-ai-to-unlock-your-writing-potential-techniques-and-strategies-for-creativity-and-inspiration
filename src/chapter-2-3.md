@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Writing Creativity and Inspiration
-===================================================================================================================================
 
 AI technology offers various tools and platforms to enhance writing creativity and inspiration. By understanding these tools and platforms, writers can unlock their full potential and achieve greater productivity, creativity, and quality outcomes.
 

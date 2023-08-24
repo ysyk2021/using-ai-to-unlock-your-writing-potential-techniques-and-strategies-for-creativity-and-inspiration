@@ -1,5 +1,3 @@
-The Future of AI in Writing Potential
-============================================================
 
 In this book, we've explored various ways in which artificial intelligence (AI) can be used to enhance creativity and inspiration in writing practice. From personalized writing prompts to natural language processing and generation, AI-powered tools have the potential to revolutionize the way writers approach their craft.
 

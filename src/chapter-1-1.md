@@ -1,5 +1,3 @@
-The Importance of Developing a Creative Writing Process
-================================================================================
 
 Developing a creative writing process is essential for unlocking your full potential as a writer. By establishing a consistent and effective process, you can enhance your productivity, creativity, and quality outcomes.
 

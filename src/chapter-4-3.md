@@ -1,5 +1,3 @@
-Incorporating Personalized Writing Prompts and Exercises with AI-Enabled Adaptive Learning
-====================================================================================================================================================
 
 Personalization is a key component of effective writing practice, and AI-powered tools can help writers create customized writing exercises and prompts that are tailored to their unique goals, interests, and writing styles. In this chapter, we'll explore strategies for using AI-enabled adaptive learning to enhance creativity and inspiration in writing practice.
 

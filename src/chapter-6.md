@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Writing Potential
-================================================
 
 AI technology has had a significant impact on the writing industry, empowering writers to explore new horizons, enriching writing outputs with enhanced creativity and originality, and stimulating continuous learning and improvement in writing practice.
 
