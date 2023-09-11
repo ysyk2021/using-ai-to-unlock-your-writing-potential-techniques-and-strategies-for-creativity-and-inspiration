@@ -1,5 +1,4 @@
-Chapter 3: Tools and Platforms for AI-Enabled Writing Creativity and Inspiration
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the various tools and platforms available to writers seeking to harness the power of AI for enhancing their creativity and finding inspiration. These AI-enabled resources provide writers with innovative solutions to stimulate their imagination, overcome writer's block, and discover new ideas. Let's explore the tools and platforms designed to unlock your writing potential.
 

@@ -1,5 +1,4 @@
-Chapter 10: Selecting the Right AI Tools and Platforms for Your Writing Needs
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of selecting the most suitable AI tools and platforms to enhance your writing capabilities. Choosing the right AI resources is crucial for maximizing your creative potential and achieving your writing goals. Let's explore strategies for making informed decisions in the AI landscape.
 

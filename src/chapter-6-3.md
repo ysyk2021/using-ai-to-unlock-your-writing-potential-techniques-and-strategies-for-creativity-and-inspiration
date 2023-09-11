@@ -1,5 +1,4 @@
-Chapter 6: Stimulating Continuous Learning and Improvement in Writing Practice
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques and strategies for leveraging artificial intelligence (AI) to stimulate continuous learning and improvement in your writing practice. AI offers valuable tools and resources that can help writers enhance their skills, refine their craft, and stay up-to-date with the ever-evolving world of writing. This chapter will delve into various ways AI can be used to foster ongoing growth in your writing journey.
 

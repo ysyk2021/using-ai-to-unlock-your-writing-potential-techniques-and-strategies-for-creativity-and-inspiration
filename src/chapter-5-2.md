@@ -1,5 +1,4 @@
-Chapter 7: Leveraging AI-Enabled Virtual Writing Assistants for Feedback, Suggestions, and Collaboration
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the invaluable role of AI-enabled virtual writing assistants in your writing journey. These intelligent tools can provide feedback, offer suggestions, and even collaborate with you, significantly enhancing your creativity and writing potential. Let's dive into the world of AI-powered virtual writing assistants and how to make the most of them.
 

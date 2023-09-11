@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Applications for Writing Creativity and Inspiration
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various AI techniques and applications that can fuel your creativity, provide inspiration, and elevate your writing skills. Understanding these different AI approaches can open up a world of possibilities for writers looking to enhance their craft. Let's dive into the diverse array of AI techniques and applications for writing creativity and inspiration.
 

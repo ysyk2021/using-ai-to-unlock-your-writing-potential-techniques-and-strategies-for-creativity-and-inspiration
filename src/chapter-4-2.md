@@ -1,5 +1,4 @@
-Chapter 4: Enhancing Writing Style and Language with AI-Enabled Natural Language Processing and Generation
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore the ways in which artificial intelligence (AI) can be used to enhance your writing style and language skills. AI, particularly natural language processing (NLP) and generation models, can assist writers in refining their prose, elevating their language, and achieving greater clarity and impact in their writing. Let's delve into the techniques and strategies for leveraging AI to enhance your writing style and language.
 

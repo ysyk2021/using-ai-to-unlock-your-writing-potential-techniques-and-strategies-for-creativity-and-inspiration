@@ -1,5 +1,4 @@
-Chapter 2: Basic Concepts and Processes of AI Algorithms for Writing Analysis and Enhancement
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental concepts and processes of AI algorithms used for writing analysis and enhancement. Understanding these core principles is crucial for writers looking to leverage AI to improve their writing skills and produce high-quality content. Let's dive into the basic concepts and processes that underlie AI algorithms in the context of writing.
 

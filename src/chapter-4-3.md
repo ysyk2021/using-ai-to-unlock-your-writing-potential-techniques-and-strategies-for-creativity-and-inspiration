@@ -1,5 +1,4 @@
-Chapter 5: Incorporating Personalized Writing Prompts and Exercises with AI-Enabled Adaptive Learning
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore the integration of personalized writing prompts and exercises with AI-enabled adaptive learning techniques. This combination offers writers a tailored approach to enhancing their creative abilities and refining their writing skills. By harnessing the power of AI, writers can receive custom prompts, exercises, and feedback that cater to their unique needs and goals, fostering a more personalized and effective learning experience.
 

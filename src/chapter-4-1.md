@@ -1,5 +1,4 @@
-Chapter 4: Generating Fresh and Unique Ideas with AI-Enabled Idea Generation and Brainstorming
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting realm of AI-enabled idea generation and brainstorming. Artificial Intelligence (AI) has become a powerful tool for writers, helping them break through creative barriers and inspire fresh and unique ideas for their writing projects. This chapter will delve into various techniques and strategies to leverage AI for generating innovative concepts and sparking creativity.
 

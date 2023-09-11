@@ -1,5 +1,4 @@
-Chapter 5: Improving Emotional and Mental Well-being to Enhance Writing Productivity and Quality
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies and techniques to nurture emotional and mental well-being as a means to boost your writing productivity and elevate the quality of your work. Writing can be a deeply personal and emotionally charged endeavor, and maintaining a positive mental state is crucial for achieving your creative goals. Let's delve into ways to enhance your emotional and mental well-being to become a more productive and inspired writer.
 
